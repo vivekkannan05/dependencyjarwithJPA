@@ -1,5 +1,5 @@
 # dependencyjarwithJPA
-This project is simple Spring Boot starter with JPA 
+This project is simple Spring Boot starter with JPA with oracle DB
 
 This is learning project where I create simple Spring JPA dependency Jar which would be called by another project. 
 For example another Springboot application with rest controller.
